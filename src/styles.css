@@ -10,3 +10,10 @@ height: 100vh;
 .title{
   color: #20639b;
 }
+.input{
+width: 18em;
+padding: 0.25em;
+border-radius: 1em;
+outline: 0;
+border: none;
+}
